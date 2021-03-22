@@ -1,0 +1,10 @@
+ninja
+yacs
+cython
+matplotlib
+tqdm
+tensorboardX
+easydict
+opencv-python
+coloredlogs
+norfair
